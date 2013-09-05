@@ -1,19 +1,69 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Área de Esportes
+* Área de Jornalismo
+* Área de Webmedia
+* Plataforma de Comentários
+* Área de Semântica
 
 CV
 ==
+ __Ítalo Queiroz__
 
-[Preencha aqui o seu cv]
+**Dados Pessoais** <br/>
+  italoqueiroz@gmail.com<br/>
+  24 anos, solteiro<br/>
+  Celular: (61) 8560-7459<br/>
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+**Resumo**<br/>
+  Estou na área de desenvolvimento há 5 anos. Nesse período trabalhei com projetos de e-learning e
+  financeiros onde consolidei meus conhecimentos em arquiteturas MVC e com diversos tipos de bancos
+  (MySQL, PostgreSQL, SQLServer, Oracle e MongoDB). Atualmente tenho trabalhado em projetos com arquitetura
+  REST fornecendo acesso a diversas interfaces (mobile, tablet, desktop web) e montando serviços integrados
+  com Facebook, Twitter, Paypal e AWS Amazon.
+<br/>
+
+**Formação acadêmica**<br/>
+  Universidade Católica de Brasília<br />
+  Analista de Sistemas, Análise e Desenvolvimento de Sistemas, 2009 - 2011
+<br/>
+
+**Experiência**
+<br/>
+**Co-Founder at Izie**
+  maio de 2013 - até o momento (5 meses) StartUp de tecnologia.
+
+**Desenvolvedor at 954 Business Consulting**
+  fevereiro de 2012 - maio de 2013 (1 ano 4 meses)
+  Responsável por módulos financeiros, rastreamento de rota com o GoogleMaps,
+  manutenções e melhorias de código buscando uma ótima qualidade para as entregas e uma excelente usabilidade para o usuário.
+
+
+**Desenvolvedor at Squadra Tecnologia**
+  junho de 2011 - fevereiro de 2012 (9 meses)
+  Desenvolvimento de funcionalidades para o SisFIES - MEC
+
+**Desenvolvedor at Pollock8**
+  dezembro de 2010 - junho de 2011 (7 meses)
+  Desenvolvimento de sistemas web e mídias sociais.
+
+**Desenvolvedor at X25 Treinamento e Consultoria**
+  agosto de 2010 - dezembro de 2010 (5 meses)
+  Desenvolvimento de sistemas.
+
+**Desenvolvedor at Senado Federal**
+  outubro de 2009 - dezembro de 2010 (1 ano 3 meses)
+  Desenvolvimento de sistemas web e E-Learning
+
+**Desenvolvedor at Preceptor Educação a Distância**
+  novembro de 2008 - outubro de 2009 (1 ano)
+￼￼Desenvolvimento de sistemas web.
+
+**Design gráfico e programador at Leal Publicidade - Guia Comercial**
+  junho de 2007 - novembro de 2008 (1 ano 6 meses)
+  Criação de mídias impressas e hot-sites.
+
+**Certificação**
+  Zend Framework Certification
+  Pearson VUE Licença de 253548386 dezembro de 2012
