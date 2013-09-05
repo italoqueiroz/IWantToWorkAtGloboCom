@@ -7,9 +7,8 @@ Vaga
 * Plataforma de Comentários
 * Área de Semântica
 
-CV
+CV Ítalo Queiroz
 ==
- __Ítalo Queiroz__
 
 **Dados Pessoais** <br/>
   italoqueiroz@gmail.com<br/>
@@ -31,39 +30,39 @@ CV
 
 **Experiência**
 <br/>
-**Co-Founder at Izie**
-  maio de 2013 - até o momento (5 meses) StartUp de tecnologia.
+**Co-Founder at Izie**<br/>
+  maio de 2013 - até o momento (5 meses) StartUp de tecnologia.<br/>
 
-**Desenvolvedor at 954 Business Consulting**
-  fevereiro de 2012 - maio de 2013 (1 ano 4 meses)
+**Desenvolvedor at 954 Business Consulting**<br/>
+  fevereiro de 2012 - maio de 2013 (1 ano 4 meses)<br/>
   Responsável por módulos financeiros, rastreamento de rota com o GoogleMaps,
-  manutenções e melhorias de código buscando uma ótima qualidade para as entregas e uma excelente usabilidade para o usuário.
+  manutenções e melhorias de código buscando uma ótima qualidade para as entregas e uma excelente usabilidade para o usuário.<br/>
 
 
-**Desenvolvedor at Squadra Tecnologia**
-  junho de 2011 - fevereiro de 2012 (9 meses)
-  Desenvolvimento de funcionalidades para o SisFIES - MEC
+**Desenvolvedor at Squadra Tecnologia**<br/>
+  junho de 2011 - fevereiro de 2012 (9 meses)<br/>
+  Desenvolvimento de funcionalidades para o SisFIES - MEC<br/>
 
-**Desenvolvedor at Pollock8**
-  dezembro de 2010 - junho de 2011 (7 meses)
-  Desenvolvimento de sistemas web e mídias sociais.
+**Desenvolvedor at Pollock8**<br/>
+  dezembro de 2010 - junho de 2011 (7 meses)<br/>
+  Desenvolvimento de sistemas web e mídias sociais.<br/>
 
-**Desenvolvedor at X25 Treinamento e Consultoria**
-  agosto de 2010 - dezembro de 2010 (5 meses)
-  Desenvolvimento de sistemas.
+**Desenvolvedor at X25 Treinamento e Consultoria**<br/>
+  agosto de 2010 - dezembro de 2010 (5 meses)<br/>
+  Desenvolvimento de sistemas.<br/>
 
-**Desenvolvedor at Senado Federal**
-  outubro de 2009 - dezembro de 2010 (1 ano 3 meses)
-  Desenvolvimento de sistemas web e E-Learning
+**Desenvolvedor at Senado Federal**<br/>
+  outubro de 2009 - dezembro de 2010 (1 ano 3 meses)<br/>
+  Desenvolvimento de sistemas web e E-Learning<br/>
 
-**Desenvolvedor at Preceptor Educação a Distância**
-  novembro de 2008 - outubro de 2009 (1 ano)
-￼￼Desenvolvimento de sistemas web.
+**Desenvolvedor at Preceptor Educação a Distância**<br/>
+  novembro de 2008 - outubro de 2009 (1 ano)<br/>
+￼￼Desenvolvimento de sistemas web.<br/>
 
-**Design gráfico e programador at Leal Publicidade - Guia Comercial**
-  junho de 2007 - novembro de 2008 (1 ano 6 meses)
-  Criação de mídias impressas e hot-sites.
+**Design gráfico e programador at Leal Publicidade - Guia Comercial**<br/>
+  junho de 2007 - novembro de 2008 (1 ano 6 meses)<br/>
+  Criação de mídias impressas e hot-sites.<br/>
 
-**Certificação**
-  Zend Framework Certification
-  Pearson VUE Licença de 253548386 dezembro de 2012
+**Certificação**<br/>
+  Zend Framework Certification<br/>
+  Pearson VUE Licença de 253548386 dezembro de 2012<br/>
