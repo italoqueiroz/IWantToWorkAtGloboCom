@@ -69,3 +69,19 @@ CV Ítalo Queiroz
 **Certificação**<br/>
   Zend Framework Certification<br/>
   Pearson VUE Licença de 253548386 dezembro de 2012<br/>
+
+**Competências**
+* Zend Framework (1 e 2)
+* PHP
+* HTML 5
+* jQuery
+* JavaScript
+* Vagrant
+* AngularJS
+* BaaS
+* Node.js
+* Express.js
+* Yeoman
+* CSS3
+* Kinvey
+* Parse
