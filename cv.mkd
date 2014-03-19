@@ -1,9 +1,7 @@
 Vaga
 ====
 
-* Área de Esportes
 * Área de Jornalismo
-* Área de Webmedia
 * Plataforma de Comentários
 * Área de Semântica
 
@@ -34,7 +32,7 @@ CV - Ítalo Queiroz - Distrito Federal
 **Experiência**
 <br/>
 **Co-Founder at Izie**<br/>
-  maio de 2013 - até o momento (5 meses) StartUp de tecnologia.<br/>
+  maio de 2013 - até o momento (10 meses) - StartUp de tecnologia.<br/>
 
 **Desenvolvedor at 954 Business Consulting**<br/>
   fevereiro de 2012 - maio de 2013 (1 ano 4 meses)<br/>
@@ -71,7 +69,7 @@ CV - Ítalo Queiroz - Distrito Federal
   Pearson VUE Licença de 253548386 dezembro de 2012<br/>
 
 **Competências**
-* Zend Framework (1 e 2)
+* Zend Framework (versões 1 e 2)
 * PHP
 * HTML 5
 * jQuery
